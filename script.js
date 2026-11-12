@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         {
             id: 3,
-            nome: "AirPods Pro",
+            nome: "Air Pods Pro",
             categoria: "headphones",
             preco: 1899,
             imagem:
